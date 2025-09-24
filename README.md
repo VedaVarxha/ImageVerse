@@ -24,7 +24,7 @@ To run this project, you need to follow these steps:
 Open your terminal and run the following command:
 
 ```bash
-git clone https://github.com/shikharrajat/ImageVerse.git
+git clone https://github.com/vedavarxha/ImageVerse.git
 ```
 Navigate into the cloned repository:
 
